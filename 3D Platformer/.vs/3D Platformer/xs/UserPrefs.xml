@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BE85D10E-620F-0A75-DADB-12732892D517}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3D Platformer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Level_1" expanded="True">
+                <Node name="Code" expanded="True">
+                  <Node name="M3L3" expanded="True" />
+                  <Node name="M4L3" expanded="True">
+                    <Node name="SpeedTriggerWizard.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="74ba471b-2c05-4108-b614-22fffe349ac4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
